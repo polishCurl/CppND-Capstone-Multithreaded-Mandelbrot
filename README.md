@@ -33,7 +33,8 @@ A number of statistics are displayed on the title bar. They are updated every se
   * Windows: [Click here for installation instructions](http://gnuwin32.sourceforge.net/packages/make.htm)
 * SDL2 >= 2.0
   * All installation instructions can be found [here](https://wiki.libsdl.org/Installation)
-  * Note that for Linux, an `apt` or `apt-get` installation is preferred to building from source.
+  * Note that for Linux, an `apt` or `apt-get` installation is preferred to building from source. 
+  * Linux: `apt-get install libsdl2-2.0-dev`
 * gcc/g++ >= 5.4
   * Linux: gcc / g++ is installed by default on most Linux distros
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)

@@ -1,5 +1,7 @@
 #include "mandelbrot.h"
 
+#include <algorithm>
+
 Mandelbrot::Mandelbrot(size_t width, size_t height, size_t thread_count)
     : kWidth_(width), kHeight_(height) {
 
